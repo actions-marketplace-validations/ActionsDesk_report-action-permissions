@@ -36,7 +36,7 @@
     "@stoe/action-permissions-cli": "^2.0.3"
   },
   "devDependencies": {
-    "@github/prettier-config": "^0.0.4",
+    "@github/prettier-config": "^0.0.6",
     "@vercel/ncc": "^0.34.0",
     "eslint": "^7.32.0, <9",
     "eslint-config-prettier": "^8.5.0",
